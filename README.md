@@ -5,6 +5,7 @@ software development, data science, and cloud technologies.
 
 ## Included Certifications
 - Python Full Stack – Besant Technologies
+- Internship Completion Certificate
 - MySQL Intermediate – https://www.hackerrank.com/certificates/dba4d1b1ed03
 - Cloud Computing (Linux & AWS DevOps) – Besant Technologies
 
